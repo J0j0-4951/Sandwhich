@@ -12,7 +12,7 @@
 {
     flex:1;
     align-self:center;
-    background-color: teal;
+    background-color: rgb(14, 110, 110);
     color: white;
 }
 
@@ -27,13 +27,13 @@ display: grid;
 grid-template-columns: repeat(3,1fr);
 gap: 10px;
 padding: 10px;
-background-color: green;
+background-color: rgb(59, 39, 5);
 }
 
 .item2
 {
-background-color:aquamarine;
-color:azure;
+background-color:light rgb(185, 151, 106);
+color:black;
 padding: 20px;
 text-align: center;
 font-size: 16px;
