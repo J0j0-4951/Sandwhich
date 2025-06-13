@@ -27,12 +27,12 @@ display: grid;
 grid-template-columns: repeat(3,1fr);
 gap: 10px;
 padding: 10px;
-background-color: darkorchid;
+background-color: green;
 }
 
 .item2
 {
-background-color:palevioletred;
+background-color:aquamarine;
 color:azure;
 padding: 20px;
 text-align: center;
