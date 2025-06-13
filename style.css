@@ -27,13 +27,13 @@ display: grid;
 grid-template-columns: repeat(3,1fr);
 gap: 10px;
 padding: 10px;
-background-color: rgb(69, 44, 15);
+background-color: aqua;
 }
 
 .item2
 {
-background-color:light rgb(241, 198, 145);
-color:black;
+background-color:light lightblue;
+color:dimgray;
 padding: 20px;
 text-align: center;
 font-size: 16px;
