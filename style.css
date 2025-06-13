@@ -12,7 +12,7 @@
 {
     flex:1;
     align-self:center;
-    background-color: wheat;
+    background-color:aquamarine;
     color: white;
 }
 
@@ -27,13 +27,13 @@ display: grid;
 grid-template-columns: repeat(3,1fr);
 gap: 10px;
 padding: 10px;
-background-color: aqua;
+background-color: green;
 }
 
 .item2
 {
 background-color:light lightblue;
-color:dimgray;
+color: white;
 padding: 20px;
 text-align: center;
 font-size: 16px;
