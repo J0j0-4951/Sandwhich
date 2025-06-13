@@ -1,0 +1,41 @@
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background-color: lightgray;
+}
+
+.item
+{
+    flex:1;
+    align-self:center;
+    background-color: teal;
+    color: white;
+}
+
+.header
+{
+    grid-area: header;
+}
+
+.container2
+{
+display: grid;
+grid-template-columns: repeat(3,1fr);
+gap: 10px;
+padding: 10px;
+background-color: darkorchid;
+}
+
+.item2
+{
+background-color:palevioletred;
+color:azure;
+padding: 20px;
+text-align: center;
+font-size: 16px;
+
+}
